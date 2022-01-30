@@ -1,7 +1,7 @@
 <div align="center">
   <img width=52rem src="https://c.tenor.com/4otr5S3l1agAAAAj/dancing-duckdancing.gif" alt="dancing duck">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23FF69B4&size=26&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Lu%C3%ADs...;Welcome+to+my+profile!+%F0%9F%92%96" alt="Hi, I'm Luís... Welcome to my profile! 💖">
-  <img width=52rem src="https://c.tenor.com/4otr5S3l1agAAAAj/dancing-duckdancing.gif" alt="dancing duck">
+  <img width=5% src="https://c.tenor.com/4otr5S3l1agAAAAj/dancing-duckdancing.gif" alt="dancing duck">
 </div>
 
 ## Detailed information
