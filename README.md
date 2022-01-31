@@ -6,7 +6,7 @@
 
 ## Detailed information
 
-* **Full Name**: Luís Felipe Albertoni da Silva
+* **Name**: Luís Felipe Albertoni da Silva
 * **Age**: 19
 * **Living in**: Álvares Machado, São Paulo, Brazil
 
