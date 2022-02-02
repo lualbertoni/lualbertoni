@@ -44,10 +44,10 @@
         <img width="46" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3"/>
     </a>
-    <a href="https://reactjs.org/" target="_blank">
+<!--     <a href="https://reactjs.org/" target="_blank">
         <img width="46" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react"/>
-    </a>
+    </a> -->
 </div>
 
 ## Find me on
