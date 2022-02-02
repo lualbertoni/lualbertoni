@@ -4,7 +4,7 @@
   <img width=5% src="https://c.tenor.com/4otr5S3l1agAAAAj/dancing-duckdancing.gif" alt="dancing duck">
 </div>
 
-## Detailed information
+## Some Infos
 
 * **Name**: Luís Felipe Albertoni da Silva
 * **Age**: 19
